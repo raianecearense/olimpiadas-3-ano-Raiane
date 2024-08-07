@@ -1,0 +1,67 @@
+body {
+    color:black;
+    background:black;
+    margin: 0px;
+    font-family:"Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 191, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+.mainvideo{
+    background: rgb(0, 255, 234);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+s
+.chamada-texto {
+    margin-right: 5%;
+    color: black;
+}
+
+h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  img{
+    height: 200px;
+  }
+  .olimpiadasParis{
+    background: black;
+    padding-top: 40px;
+    display: flex;
+    gap: 10px;
+  }
+  .categorias-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  section{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .categorias-videos img{
+    opacity: 0.5;
+    height: 200px;
+  }
+  .categorias-videos img:hover{
+    opacity: 1.0;
+    border: 1px yellow;
+  }
+  .tenisdemesa img{
+    height: 390px;
+  }
+  h2{
+    color: white;
+  }
